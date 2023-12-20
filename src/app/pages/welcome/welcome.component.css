@@ -1,0 +1,106 @@
+.container{
+  
+	border: solid 5px rgb(183, 12, 12);
+	justify-content: center;
+	text-align: center;
+	width: 1000px;
+	margin: auto;
+  background-color: cadetblue;
+  display: block;
+	}
+
+ 
+  .bandera{
+	
+	  display: flex;
+	  border: solid 1px rgba(255, 255, 255, 0);
+	  width: auto;
+	  height: auto;
+	  margin: 10px;
+	  justify-content: center;
+    background-color: rgba(245, 245, 220, 0.114);
+	}
+
+	.band{
+	
+	  display: grid;
+	  grid-template-rows: 1fr 1fr 1fr;
+	  background-color: white;
+	  width: 500px;
+	  height: 100px;
+	}
+
+  .arriba
+  {
+    background-color: red;
+  }
+
+  .centro
+  {
+    background-color: rgb(3, 106, 14);
+  }
+
+  .abajo
+  {
+    background-color: red;
+  }
+
+  
+
+	.body{
+	  display: flex;
+	  justify-content: center;
+	}
+	.target1{
+	
+	display: block;
+	border: solid 1px black;
+	width: 200px;
+	height: 500px;
+	margin: 10px;
+	padding: 5px;
+  background-color: rgba(0, 255, 94, 0.373);
+  border-color: brown;
+  
+	}
+
+
+	.target2{
+	
+	display: block;
+	border: solid 1px black;
+	width: 200px;
+	height: 500px;
+	margin: 10px;
+	padding: 5px;
+	background-color: cornsilk;
+  border-color: brown;
+	}
+	
+	.target3{
+	
+	  display: block;
+	border: solid 1px black;
+	width: 200px;
+	height: 500px;
+	margin: 10px;
+	padding: 5px;
+	background-color: rgba(0, 255, 94, 0.373);
+  border-color: brown;
+	}
+
+.banner{
+  border: solid 5px rgb(183, 12, 12);
+    background-color: rgba(0, 255, 255, 0.322);
+}
+	
+
+ .h1{
+  color: brown;
+  font-style: italic;
+ }
+ .p{
+  font-family: Arial, sans-serif;
+ }
+
+  
